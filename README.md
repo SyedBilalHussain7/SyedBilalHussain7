@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--7-s6BXGM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/th2i72qu0rnt6hr9zn43.jpg">
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
